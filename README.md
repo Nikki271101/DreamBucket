@@ -23,7 +23,8 @@ Kotlin
    5) Lambdas
    6) Inheritance
    7) Backing Properties
-      and more...
+      
+
 Android Architecture Components
    1) ViewModel
    2) LiveData
@@ -31,6 +32,8 @@ Android Architecture Components
    4) Room
    5) Navigation Components
    6) Lifecycle
+
+
 Other libraries
   1) Material Components
   2) Lottie
